@@ -70,6 +70,7 @@ footer #copy{
 	background-color: #f7b614;
 	border-radius: 20%;
 	padding: 2% 6%;
+	margin-left: 37%;
 }
 
 #sitathome{
@@ -84,7 +85,7 @@ footer #copy{
 	color: #f7b614;
 	text-transform: capitalize;
 	font-size: 40px;
-	font-weight: 800;
+	font-weight: 900;
 	padding-top: 20%;
 }
 
@@ -99,12 +100,85 @@ footer #copy{
 	
 }
 
+
 #sitathome .info{
 	
 	
 }
 
+.space{
+	padding-bottom: 10%;
+}
+
 .btn-sit{
 	
-	padding-top: 3%;
+	margin-left: 40%;
 }
+
+.center{
+	
+	padding-left: 30%;
+}
+#sitathome .info{
+	
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+
+#sitathome .info2{
+	
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+
+#contact-form{
+	
+	background-color: #f7b614;
+}
+
+#contact-form .title{
+	
+	color: #000000;
+	font-size: 25px;
+	font-weight: 800;
+
+}
+
+
+#contact-form .subtitle{
+	
+	color: white;
+	font-size: 15px;
+	padding-top: 15%;
+}
+
+.btn-sit{
+		
+	
+	background-color: #000;
+	border-radius: 20%;
+	padding: 2% 12%;
+	color: white;
+
+}
+
+.space-top1{
+	
+	margin-top: 11%;
+}
+
+.space-top{
+	
+	margin-top: 40%;
+}
+
+
+
