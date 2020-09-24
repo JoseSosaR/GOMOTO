@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Heebo&display=swap');
+
+
+
+body{
+font-family: 'Catamaran', sans-serif;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #282932;
+	width: 100%;
+	top:0;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+footer{
+	background-color: #282932;
+	background-image: url(../img/footer-bg.png);
+	background-size: cover;
+	padding-top: 40px;
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p span{
+	color: #f7b614;
+}
+footer #copy{
+	padding: 20px 0;
+	margin-top: 5%;
+	color: #fff;
+	border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+#hero{
+	
+	background-color: #282932;
+		
+}
+
+#hero .title {
+	
+	color: #f7b614;
+	text-transform: capitalize;
+	font-size: 60px;
+	font-weight: 800;
+	padding-top: 20%;
+}
+
+#hero .title-2 {
+	
+	color: #f7b614;
+	text-transform: capitalize;
+	font-size: 60px;
+	font-weight: 700;
+	margin-top: -5%;
+	
+}
+
+#hero .info{
+	
+	color: white;
+}
+
+.btn-general{
+	
+	color: #000;
+	background-color: #f7b614;
+	border-radius: 20%;
+	padding: 2% 6%;
+}
+
+#sitathome{
+	
+	background-color: #282932;
+}
+
+
+#sitathome .title {
+	
+	text-align:center;
+	color: #f7b614;
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: 800;
+	padding-top: 20%;
+}
+
+#sitathome .title-2 {
+	
+	text-align:center;
+	color: #f7b614;
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: 700;
+	margin-top: -5%;
+	
+}
+
+#sitathome .info{
+	
+	
+}
+
+.btn-sit{
+	
+	padding-top: 3%;
+}
